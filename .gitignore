@@ -1,0 +1,24 @@
+# Ignore compiled files
+*.o
+*.out
+*.a
+*.so
+
+# Ignore editor files
+*~
+*.swp
+*.swo
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build directories
+/build/
+/bin/
+/obj/
+/lib/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
